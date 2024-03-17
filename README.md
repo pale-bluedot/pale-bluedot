@@ -1,12 +1,9 @@
 # Hello, I'm Johan
-<a href="https://www.linkedin.com/in/johan-andrade-b97253a2/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/johan-andrade-b97253a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
+I completed the Google Cybersecurity Certificate, solidifying my expertise in key cybersecurity knowledge and skills.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 My journey in Engineering and IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
