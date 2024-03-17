@@ -45,7 +45,7 @@ My journey in Engineering and IT has led me to develop a curiosity for cybersecu
 
 ## Certifications
 <div>
-    <a href="https://grow.google/certificates/cybersecurity/">
+    <a href="https://www.credly.com/badges/0bd03304-d04c-4e68-a29f-cf712bdc1be8/public_url">
         <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
     </a>
 </div>
