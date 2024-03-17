@@ -1,5 +1,5 @@
 # Hello, I'm Johan
-<a href="https://www.linkedin.com/in/johan-andrade-b97253a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/johan-andrade-b97253a2/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Committed to enhancing organizational cybersecurity resilience, I recently completed the Google Cybersecurity Certificate, solidifying my expertise in key cybersecurity knowledge and skills.
 
