@@ -10,12 +10,9 @@ My journey in Engineering and IT has led me to develop a curiosity for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SQL Log Analysis         | <a href="https://google.com">Filtering User Activity</a> |
+| Linux File Permissions   | <a href="https://google.com">User File Authorization</a> |
+| Incident Report Analysis | <a href="https://google.com">Applying NIST CSF Framework</a> |
 
 ## Tools
 
@@ -51,5 +48,6 @@ My journey in Engineering and IT has led me to develop a curiosity for cybersecu
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://google.com">Filtering User Activity</a>
+- <a href="https://google.com">User File Authorization</a>
+- <a href="https://google.com">Applying NIST CSF Framework</a>
