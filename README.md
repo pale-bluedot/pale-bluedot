@@ -10,8 +10,8 @@ My journey in Engineering and IT has led me to develop a curiosity for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SQL Log Analysis         | <a href="https://google.com">Filtering User Activity</a> |
-| Linux File Permissions   | <a href="https://google.com">User File Authorization</a> |
+| SQL Log Analysis         | <a href="https://github.com/pale-bluedot/SQL-Filtering">Filtering User Activity</a> |
+| Linux File Permissions   | <a href="https://github.com/pale-bluedot/Linux-File-Authorization">User File Authorization</a> |
 | Incident Report Analysis | <a href="https://github.com/pale-bluedot/Applying-NIST-Framework">Applying NIST CSF Framework</a> |
 
 ## Tools
@@ -48,6 +48,6 @@ My journey in Engineering and IT has led me to develop a curiosity for cybersecu
 </div>
 
 ## Projects
-- <a href="https://google.com">Filtering User Activity</a>
-- <a href="https://google.com">User File Authorization</a>
+- <a href="https://github.com/pale-bluedot/SQL-Filtering">Filtering User Activity</a>
+- <a href="https://github.com/pale-bluedot/Linux-File-Authorization">User File Authorization</a>
 - <a href="https://github.com/pale-bluedot/Applying-NIST-Framework">Applying NIST CSF Framework</a>
